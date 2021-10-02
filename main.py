@@ -1,4 +1,5 @@
 import turtle
+# This is first program this kinda succ
 s = turtle.Screen()
 s.setup(width=1000,height=1000)
 turtle.title("Sticlmin")
